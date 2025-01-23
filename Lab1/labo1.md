@@ -3,7 +3,7 @@
 ### Date : 23 Janvier 2025
 
 
-## Exercice 1 : Installation d'une machine virtuelle (60 mins)
+## Installation d'une machine virtuelle (60 mins)
 
 Une machine virtuelle (VM) est un logiciel qui permet de simuler un système d'exploitation,
 comme Ubuntu, sur un ordinateur fonctionnant avec un autre système, tel que Windows ou macOS.
