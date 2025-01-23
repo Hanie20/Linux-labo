@@ -1,8 +1,7 @@
-# Auteur: Johanie Damas
-
-# Date : 23 Janvier 2025
-
 # Laboratoire 1 : Installer une machine virtuelle
+### Auteur: Johanie Damas
+### Date : 23 Janvier 2025
+
 
 ## Exercice 1 : Installation d'une machine virtuelle (60 mins)
 
